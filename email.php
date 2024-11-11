@@ -1,0 +1,3 @@
+<?php 
+
+echo "SENDING EMAIL":
