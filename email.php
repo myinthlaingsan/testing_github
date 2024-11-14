@@ -1,3 +1,4 @@
 <?php 
 
-echo "SENDING EMAIL":
+echo "SENDING EMAIL";
+echo "Another Email";
